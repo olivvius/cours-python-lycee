@@ -16,9 +16,9 @@ Un interpréteur Python (voir ci-dessous pour l'installation et les outils en li
 
 Si vous ne souhaitez pas installer Python sur votre ordinateur, vous pouvez utiliser un interpréteur en ligne :
 
-[https://colab.google/](Google Colab)
+[https://colab.google/](https://colab.google/)
 
-[https://pythontutor.com/](Python Tutor)
+[https://pythontutor.com/](https://pythontutor.com/)
 
 
 ### 2. Installer EduPython (idéal pour les lycéens)
