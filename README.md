@@ -31,6 +31,9 @@ Suivez les instructions d'installation.
 
 Ouvrez EduPython et commencez à coder !
 
+Le cours entier est disponible dans le fichier cours.py.
+Vous pouvez apprendre en réécrivant simplement les lignes de code fournies mais aussi adapter le code à vos propres besoin et vos idées!
+
 ## 👔 Licence
 
 Projet sous licence Apache 2.0 - Libre d'utilisation et de modification.
